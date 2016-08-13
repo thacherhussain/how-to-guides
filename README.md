@@ -4,8 +4,8 @@ Sometimes when trying to figure things out I didn't find the kind of documentati
 
 [APICallsUsingPostman_wDeveloperKeys_MarvelAPI](https://github.com/thacherT1D/APICallsUsingPostman_wDeveloperKeys_MarvelAPI)
 
+[angularIntro](https://github.com/thacherT1D/angularIntro)
+
 [angularMaterializeExample](https://github.com/thacherT1D/angularMaterializeExample)
 
 [angularUIRoutingExample](https://github.com/thacherT1D/angularUIRoutingExample)
-
-[angularIntro](https://github.com/thacherT1D/angularIntro)
