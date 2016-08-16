@@ -9,3 +9,5 @@ Sometimes when trying to figure things out I didn't find the kind of documentati
 [angularMaterializeExample](https://github.com/thacherT1D/angularMaterializeExample)
 
 [angularUIRoutingExample](https://github.com/thacherT1D/angularUIRoutingExample)
+
+[fishToZsh](https://github.com/thacherT1D/fishToZsh)
