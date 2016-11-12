@@ -4,6 +4,8 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 [Setting up Google TensorFlow](https://gist.github.com/thacherT1D/0103f69cb409385b80fb717419eb2ffc)
 
+[Setting up your Mac OS X Development Environment](https://gist.github.com/thacherT1D/a48c08efecca86aa6f121889c60cce78)
+
 [fishToZsh](https://github.com/thacherT1D/fishToZsh)
 
 [Random Small Hacks](https://gist.github.com/thacherT1D/f3c937086b2231ab0d058edc6173b83c)
