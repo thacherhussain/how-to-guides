@@ -1,6 +1,6 @@
 Writing documentation that I wish had existed when I was trying to learn any given topic -- my attempt to pay it forward :)
 
-###New and Random
+##New and Random
 
 [Setting up Google TensorFlow](https://gist.github.com/thacherT1D/0103f69cb409385b80fb717419eb2ffc)
 
@@ -12,7 +12,8 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 [Deploying a Static Page with Surge](https://gist.github.com/thacherT1D/bdeba175a12935c9cbde8cdaacdc79b2)
 
-###Angular
+
+##Angular
 
 [angularIntro](https://github.com/thacherT1D/angularIntro)
 
@@ -20,7 +21,8 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 [angularUIRoutingExample](https://github.com/thacherT1D/angularUIRoutingExample)
 
-###API Calls with Postman
+
+##API Calls with Postman
 
 [APICallsUsingPostman_PokemonAPI](https://github.com/thacherT1D/APICallsUsingPostman_PokemonAPI)
 
