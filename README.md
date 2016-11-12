@@ -10,6 +10,8 @@ Writing documentation that I wish had existed when I was trying to learn any giv
   * Never use Safari on your iPhone again
   * Make your keyboard cursor move waaaay faster
 
+[Deploying a Static Page with Surge](https://gist.github.com/thacherT1D/bdeba175a12935c9cbde8cdaacdc79b2)
+
 ###Angular
 
 [angularIntro](https://github.com/thacherT1D/angularIntro)
