@@ -1,12 +1,12 @@
-Sometimes when trying to figure things out I didn't find the kind of documentation I was looking for, so I have started writing it... if you have suggestions or edits, feel free to submit a pull request.
+Writing documentation that I wish had existed when I was trying to learn any given topic -- my attempt to pay it forward :)
 
-***Random and Fun***
+###Random and Fun
 
 [Setting up Google TensorFlow](https://gist.github.com/thacherT1D/0103f69cb409385b80fb717419eb2ffc)
 
 [fishToZsh](https://github.com/thacherT1D/fishToZsh)
 
-***Angular***
+###Angular
 
 [angularIntro](https://github.com/thacherT1D/angularIntro)
 
@@ -14,7 +14,7 @@ Sometimes when trying to figure things out I didn't find the kind of documentati
 
 [angularUIRoutingExample](https://github.com/thacherT1D/angularUIRoutingExample)
 
-***API Calls with Postmant***
+###API Calls with Postman
 
 [APICallsUsingPostman_PokemonAPI](https://github.com/thacherT1D/APICallsUsingPostman_PokemonAPI)
 
