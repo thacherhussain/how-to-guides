@@ -9,7 +9,7 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 ## Basics
 
-[Setting up your Mac OS X Development Environment](https://gist.github.com/thacherT1D/a48c08efecca86aa6f121889c60cce78)
+[Setting up your Mac OS X Development Environment](https://github.com/thacherT1D/macosx-dev-setup)
 
 [Deploying a Static Page with Surge](https://gist.github.com/thacherT1D/bdeba175a12935c9cbde8cdaacdc79b2)
 
