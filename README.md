@@ -36,5 +36,5 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 ## In-Progress
 
-- Basic React App
-- Using the PetFinder API
+- [Basic React App]()
+- [Using the PetFinder API](https://github.com/thacherT1D/petfinder-API-guide)
