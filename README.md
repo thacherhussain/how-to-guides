@@ -1,4 +1,4 @@
-Writing documentation that I wish had existed when I was trying to learn any given topic -- my attempt to pay it forward :)
+My attempt to pay it forward -- documentation and example applications that I wish had existed when I was trying to learn a given topic 🙂
 
 ## Basics
 
