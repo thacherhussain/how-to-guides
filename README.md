@@ -8,13 +8,22 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 [fishToZsh](https://github.com/thacherT1D/fishToZsh)
 
-## Angular
 
+## Example Applications
+
+### React: 
+[Doggo Travel](https://github.com/thacherT1D/doggo-travel)
+
+### React Native
+[Lighter Lighter Pack](https://github.com/thacherT1D/lighter-lighter-pack)
+
+### Angular
 [angularIntro](https://github.com/thacherT1D/angularIntro)
 
 [angularMaterializeExample](https://github.com/thacherT1D/angularMaterializeExample)
 
 [angularUIRoutingExample](https://github.com/thacherT1D/angularUIRoutingExample)
+
 
 ## API Calls with Postman
 
@@ -22,11 +31,13 @@ Writing documentation that I wish had existed when I was trying to learn any giv
 
 [APICallsUsingPostman_wDeveloperKeys_MarvelAPI](https://github.com/thacherT1D/APICallsUsingPostman_wDeveloperKeys_MarvelAPI)
 
+
 ## Google TensorFlow
 
 [Setting up Google TensorFlow](https://gist.github.com/thacherT1D/0103f69cb409385b80fb717419eb2ffc)
 
 [Using TensorFlow for Fast Style Transfer](https://gist.github.com/thacherT1D/ef612173bae63e1c2438a73e405b8a52)
+
 
 ## Other
 
@@ -34,8 +45,9 @@ Writing documentation that I wish had existed when I was trying to learn any giv
   - Never use Safari on your iPhone again
   - Make your keyboard cursor move waaaay faster
 
+
 ## In-Progress
 
-- [Basic React App](https://github.com/thacherT1D/react-travel)
-- [Using the PetFinder API](https://github.com/thacherT1D/petfinder-API-guide)
-- [Ionic Example Project](https://github.com/thacherT1D/ionicExampleThatWorks)
+[Using the PetFinder API](https://github.com/thacherT1D/petfinder-API-guide)
+
+[Ionic Example Project](https://github.com/thacherT1D/ionicExampleThatWorks)
