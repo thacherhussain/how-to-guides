@@ -11,7 +11,7 @@ My attempt to pay it forward -- documentation and example applications that I wi
 
 ## Example Applications
 
-### React: 
+### React
 [Doggo Travel](https://github.com/thacherT1D/doggo-travel)
 
 ### React Native
