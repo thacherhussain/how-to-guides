@@ -1,6 +1,6 @@
 My attempt to pay it forward -- documentation and example applications that I wish had existed when I was trying to learn a given topic 🙂
 
-I'm also available as a mentor on [mentorcruise.com](www.mentorcruise.com), have worked as an instructor in a full-stack bootcamp program, and as an adjunct professor at the University of Washington teaching Data Analytics and Visualization. Feel free to reach out to me directly with any questions at [thacherT1D@gmail.com](mailto:thacherT1D@gmail.com)
+I'm also available as a mentor on [mentorcruise.com](http://www.mentorcruise.com), have worked as an instructor in a full-stack bootcamp program, and as an adjunct professor at the University of Washington teaching Data Analytics and Visualization. Feel free to reach out to me directly with any questions at [thacherT1D@gmail.com](mailto:thacherT1D@gmail.com)
 
 ## Basics
 
