@@ -18,6 +18,10 @@ I'm also available as a mentor on [mentorcruise.com](https://mentorcruise.com/me
 
 [Doggo Travel](https://github.com/thacherhussain/doggo-travel)
 
+Using socket.io: [Socket Chat](https://github.com/thacherhussain/socket-chat)
+
+Using the GitHub API: [Search GitHub](https://github.com/thacherhussain/search-github)
+
 
 ### React Native
 [Lighter Lighter Pack](https://github.com/thacherhussain/lighter-lighter-pack)
